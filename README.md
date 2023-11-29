@@ -9,8 +9,6 @@ This web application allows users to create and manage their notes. Users can cr
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
