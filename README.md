@@ -30,11 +30,11 @@ This web application allows users to create and manage their notes. Users can cr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/note-taking-web-app.git
+   git clone https://github.com/HuyLe4444/NoteMe.git
 2. Configure your database connection:
 
 - Create a MySQL database.
-- Copy config.sample.php to config.php and update the database connection details.
+- Copy config_sample.php to config.php and update the database connection details.
 
 3. Set up the web server:
 - Configure your web server to serve the application from the project directory.
